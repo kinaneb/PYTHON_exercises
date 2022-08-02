@@ -1,0 +1,3 @@
+je suis en tran de testé le UTF-8
+dans vim je sais pas si ça march 
+mais a parament oui
